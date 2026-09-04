@@ -1,0 +1,6 @@
+{
+  "name": "Julius Baer — Wealth Intelligence Workbench",
+  "description": "An AI-powered wealth advisory workbench for Relationship Managers transforming portfolio monitoring into proactive, personalised, and explainable advisory insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
